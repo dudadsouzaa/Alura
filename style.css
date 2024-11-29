@@ -12,3 +12,15 @@ body{
     margin-top: 80px;
     margin-bottom: 80px;
 }
+header{
+    font-size: 40px;
+    color: blueviolet;
+    border-bottom: 3px solid purple;
+    padding: 20px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
